@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capstone\\HealthTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\progresstracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\progresstracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\emailreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\emailreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\userworkouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\userworkouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\controllers\\progresstrackingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\controllers\\progresstrackingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\healthtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\healthtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\controllers\\userworkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\controllers\\userworkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|d:\\capstone\\healthtracker\\healthtracker\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8FCFC6-94A2-413A-A215-26F06CA7FD8E}|HealthTracker\\HealthTracker.csproj|solutionrelative:healthtracker\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SendMail.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Middleware\\SendMail.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Middleware\\SendMail.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Middleware\\SendMail.cs",
+              "RelativeToolTip": "HealthTracker\\Middleware\\SendMail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:14:51.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailReport.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\EmailReport.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\EmailReport.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\EmailReport.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\EmailReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:10:56.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "HealthTracker\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:29:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "HealthTracker\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:28:26.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserWorkoutsController.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\UserWorkoutsController.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Controllers\\UserWorkoutsController.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\UserWorkoutsController.cs",
+              "RelativeToolTip": "HealthTracker\\Controllers\\UserWorkoutsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:48:37.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HealthTracker.csproj",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\HealthTracker.csproj",
+              "RelativeDocumentMoniker": "HealthTracker\\HealthTracker.csproj",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\HealthTracker.csproj",
+              "RelativeToolTip": "HealthTracker\\HealthTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T12:27:39.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\IAuthService.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\IAuthService.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:04:42.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProtectedController.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\ProtectedController.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Controllers\\ProtectedController.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\ProtectedController.cs",
+              "RelativeToolTip": "HealthTracker\\Controllers\\ProtectedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:00:27.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HealthTracker\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:58:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\AuthService.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\AuthService.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:54:07.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:51:49.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\JwtSettings.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:51:20.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProgressTrackingsController.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\ProgressTrackingsController.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Controllers\\ProgressTrackingsController.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\ProgressTrackingsController.cs",
+              "RelativeToolTip": "HealthTracker\\Controllers\\ProgressTrackingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:49:08.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HealthTracker\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwIYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:48:02.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "HealthTracker\\appsettings.json",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\appsettings.json",
+              "RelativeToolTip": "HealthTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T08:43:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Program.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Program.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Program.cs",
+              "RelativeToolTip": "HealthTracker\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:01:29.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:07:42.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgressTracking.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\ProgressTracking.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\ProgressTracking.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\ProgressTracking.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\ProgressTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:07:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserWorkouts.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\UserWorkouts.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\UserWorkouts.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\UserWorkouts.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\UserWorkouts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:05:29.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "HealthTracker\\Models\\Users.cs",
+              "ToolTip": "D:\\Capstone\\HealthTracker\\HealthTracker\\Models\\Users.cs",
+              "RelativeToolTip": "HealthTracker\\Models\\Users.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:03:00.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
